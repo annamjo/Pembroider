@@ -1,0 +1,1 @@
+PEmbroider is an open-source library for embroidery design, maintained by CMU's Studio for Creative Enquiry. Designs are created using Processing code, particularly the Processing Drawing API which can be used to generate embroidery designs computationally
